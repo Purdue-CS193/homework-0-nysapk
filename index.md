@@ -4,6 +4,9 @@ Favorite Things About CS193:
 - Collaborative and helpful teachers
 - Useful information
 - No exams
+- Stress-free
+- Fun environment
+
 
 
 ## Welcome to GitHub Pages
