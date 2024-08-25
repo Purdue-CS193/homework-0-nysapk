@@ -5,7 +5,7 @@ Favorite Things About CS193:
 - Useful information
 - No exams
 - Stress-free
-- Fun environment
+- Fun environment 
 
 
 
